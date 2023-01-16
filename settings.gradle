@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Poc Navegacao"
+include ':app'
+include ':FeatureLogin'
+include ':FeatureRecoveryPassword'
+include ':Navigation'
+include ':FeatureRecoverySuccess'
+include ':FeatureHome'
+include ':FeaturePix'
+include ':Navigate'
