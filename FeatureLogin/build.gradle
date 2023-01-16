@@ -42,4 +42,5 @@ dependencies {
 
     implementation project(path: ':FeatureRecoveryPassword')
     implementation project(path: ':FeatureHome')
+    implementation project(path: ':Navigation')
 }
