@@ -14,9 +14,6 @@
             <option value="$PROJECT_DIR$/FeatureLogin" />
             <option value="$PROJECT_DIR$/FeaturePix" />
             <option value="$PROJECT_DIR$/FeatureRecoveryPassword" />
-            <option value="$PROJECT_DIR$/FeatureRecoverySuccess" />
-            <option value="$PROJECT_DIR$/Navigate" />
-            <option value="$PROJECT_DIR$/Navigation" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
